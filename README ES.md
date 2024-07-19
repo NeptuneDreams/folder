@@ -12,7 +12,7 @@ Si encuentras algún error o tienes sugerencias para mejorar el código, por fav
 
 ## Contacto
 
-Si deseas contactarme para cualquier consulta o simplemente para intercambiar ideas, puedes encontrarme en "Agregare pronto un instagram.
+Si deseas contactarme para cualquier consulta o simplemente para intercambiar ideas, puedes encontrarme en "nd_tatty" en instagram.
 
 ¡Gracias por visitar mi repositorio y por tu colaboración!
 
