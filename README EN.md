@@ -13,7 +13,7 @@ If you find any bugs or have suggestions to improve the code, please feel free t
 
 ## Contact
 
-If you want to contact me for any questions or just to exchange ideas, you can find me at "I will add an Instagram soon.
+If you would like to contact me for any questions or just to exchange ideas, you can find me at "nd_tatty" on instagram.
 
 Thank you for visiting my repository and for your collaboration!
 
